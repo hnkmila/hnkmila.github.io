@@ -42,6 +42,7 @@ li {
   font-size: 140px;
   margin-bottom: 0px;
   letter-spacing: 10px;
+  font-family: "Montana";
 }
 
 .copy-container h2 {
@@ -49,6 +50,7 @@ li {
   font-weight: 200;
   margin-top: 0px;
   margin-bottom: 0px;
+  font-family: "Montana";
 }
 
 .copy-container span {
